@@ -1,0 +1,17 @@
+body{
+    background-color:grey;
+}
+
+img{
+    width: 10px;
+    height: 10px;
+}
+
+button{
+    border-radius: 5px;
+}
+
+canvas{
+    background-color:white;
+    border-radius: 5px;
+}
